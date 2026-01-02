@@ -1,0 +1,7 @@
+{
+  "name": "Vanguard Pulse",
+  "description": "Next-generation emergency clinical context engine with multi-page patient onboarding and secure document telemetry.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
